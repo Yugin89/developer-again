@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bikecontrolplugin\\module.bikecontrolplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\z.ue projects\\pr54\\intermediate\\build\\win64\\x64\\pr54editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bikecontrolplugin\\definitions.bikecontrolplugin.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\bikecontrolplugin.init.gen.cpp",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\bikepawn.gen.cpp",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\source\\bikecontrolplugin\\public\\bikepawn.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physics\\experimental\\physscene_chaos.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\chaos\\public\\eventsdata.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\externalcollisiondata.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physics\\physscene.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physics\\experimental\\chaoseventtype.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\chaoseventtype.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physics\\physicsinterfaceutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physxpublic.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\union.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\physicsreplicationinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\physicscore\\public\\chaos\\chaosscene.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\contactmodification.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\bikepawn.generated.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\pidctrlcomponent.gen.cpp",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\source\\bikecontrolplugin\\public\\pidctrlcomponent.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\pidctrlcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BikeControlPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\z.UE Projects\PR54\Intermediate\Build\Win64\x64\PR54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\Module.BikeControlPlugin.cpp.obj"
+"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\BikeControlPlugin.cpp.obj"
+"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\BikePawn.cpp.obj"
+"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\PIDCtrlComponent.cpp.obj"
+"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\Default.rc2.res"
+/OUT:"D:\z.UE Projects\PR54\Plugins\BikeControlPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\BikeControlPlugin\UnrealEditor-BikeControlPlugin.lib"

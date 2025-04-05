@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BikeControlPlugin.cpp.obj": [
+			"BikeControlPlugin.init.gen.cpp.obj",
+			"BikePawn.gen.cpp.obj",
+			"PIDCtrlComponent.gen.cpp.obj",
+			"BikeControlPlugin.cpp.obj",
+			"BikePawn.cpp.obj",
+			"PIDCtrlComponent.cpp.obj"
+		]
+	}
+}

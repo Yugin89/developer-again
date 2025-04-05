@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.2",
+	"FriendlyName": "Bike Control PRO",
+	"Description": "Bike Control PRO",
+	"Category": "Fly Dream Dev",
+	"CreatedBy": "Fly Dream Dev",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1E_IOBlZ52wHfjcnxZTd7DNylwyfX1ERToo-_uYJnclc/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/25bd7486ba594595856453f1d674e4ca",
+	"SupportURL": "https://discord.gg/DN4PhbmShg",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BikeControlPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}

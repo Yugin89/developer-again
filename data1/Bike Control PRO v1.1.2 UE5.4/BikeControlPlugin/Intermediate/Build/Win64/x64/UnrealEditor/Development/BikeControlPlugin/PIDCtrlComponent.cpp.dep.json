@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\source\\bikecontrolplugin\\private\\pidctrlcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\z.ue projects\\pr54\\intermediate\\build\\win64\\x64\\pr54editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bikecontrolplugin\\definitions.bikecontrolplugin.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\source\\bikecontrolplugin\\public\\pidctrlcomponent.h",
+            "d:\\z.ue projects\\pr54\\plugins\\bikecontrolplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\bikecontrolplugin\\uht\\pidctrlcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
