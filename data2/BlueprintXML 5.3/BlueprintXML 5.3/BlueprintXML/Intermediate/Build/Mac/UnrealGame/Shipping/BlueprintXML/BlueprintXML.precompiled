@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Shipping/BlueprintXML/Module.BlueprintXML.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/BlueprintXML/Module.BlueprintXML.cpp.o",
+		"../../../x64/UnrealGame/Shipping/BlueprintXML/Module.BlueprintXML.cpp.o",
+		"../../../x64/UnrealGame/Shipping/BlueprintXML/Module.BlueprintXML.cpp.o"
+	]
+}
