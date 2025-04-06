@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.1",
+	"FriendlyName": "Cyrus 365 - Runtime Screenshot Pro (RSP)",
+	"Description": "Super easy plugins to Take a Screenshot & specialised for Path Tracer. \r\nCopyright © 2022 Cyrus365, All Rights Reserved.",
+	"Category": "Screen Capture",
+	"CreatedBy": "Cyrus 365",
+	"CreatedByURL": "https://www.cyrus365.com",
+	"DocsURL": "https://docs.google.com/document/d/1OjaBrTQ4shx7FjxNRLpOVn8Ih8tYst7Pp6TO63vRnMc/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f5b986241ebf4ac6b596dd66a3628b96",
+	"SupportURL": "mailto:ue_support@cyrus365.com",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "C3_RSP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
